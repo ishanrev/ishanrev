@@ -1,16 +1,31 @@
-## Hi there 👋
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
 
-<!--
-**ishanrev/ishanrev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Ishan Revankar 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  CS student @ <b>University of Maryland, College Park</b>  
+  <br>
+  Full-Stack Developer | LLM Inference Researcher
+  <br>
+  Focused on Multi-GPU Optimization, AI Infrastructure, and Systems Engineering
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Currently Working On
+- 🚀 **Disaggregated KV Caching** to extend LLM context in constrained environments
+- 🧠 Researching efficient inference for large models across distributed memory tiers
+
+---
+
+### ⚡ Tech Stack
+- 💻 **Languages:** Python · TypeScript · C++ · Java
+- 🌐 **Full Stack:** React · Node.js · Next.js · Express · MongoDB · PostgreSQL
+- 🧪 **ML/Infra:** PyTorch · Docker · AWS · CUDA (learning)
+
+---
+
+### 📫 Reach Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/ishanrev/)
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />

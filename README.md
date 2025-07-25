@@ -1,5 +1,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
 
+<div align="center">
+  <img src="https://github.com/ishanrev/ishanrev/blob/main/ascii-art%20(2).png" width="50%" />
+</div>
 <h1 align="center">Hi, I'm Ishan Revankar 👋</h1>
 
 <p align="center">

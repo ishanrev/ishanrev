@@ -1,0 +1,27 @@
+# Draws a pixel-art critter from your GitHub activity and adds it to the top of this README.
+# To swap it, change the last two lines and commit: https://critters.aryamantepal.com
+name: Critter
+
+on:
+  push:
+    paths: [.github/workflows/critter.yml]
+  workflow_dispatch:
+  schedule:
+    - cron: "37 0 * * *" # just after midnight UTC, when yesterday's activity is complete
+
+permissions:
+  contents: write
+
+concurrency: critter
+
+jobs:
+  critter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: aryamantepal/git-critters@v1
+        with:
+          activity: true
+          egg: true
+          critter: dragon
+          colour: frost

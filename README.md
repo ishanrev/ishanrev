@@ -1,3 +1,8 @@
+
+
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
+
 <!-- git-critters:start -->
 <p align="center">
   <img src="critter.gif" width="720" alt="Animated pixel art of a speckled egg rocking gently from side to side" />
@@ -6,13 +11,6 @@
 </p>
 <!-- git-critters:end -->
 
-
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
-
-<div align="center">
-  <img src="https://github.com/ishanrev/ishanrev/blob/main/ascii-art%20(2).png" width="35%" />
-</div>
 <h1 align="center">Hi, I'm Ishan Revankar 👋</h1>
 
 <p align="center">

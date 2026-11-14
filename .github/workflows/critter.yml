@@ -19,6 +19,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: aryamantepal/git-critters@v1
+      - uses: aryamantepal/git-critters@feature/default-random-hatchling
         with:
           activity: true

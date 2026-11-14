@@ -5,7 +5,7 @@
 
 <!-- git-critters:start -->
 <p align="center">
-  <img src="critter.gif" width="720" alt="Animated pixel art of a speckled egg rocking gently from side to side" />
+  <img src="critter.gif" width="50%" alt="Animated pixel art of a speckled egg rocking gently from side to side" />
   <br />
   <sub>Made with <a href="https://github.com/aryamantepal/git-critters">git-critters</a></sub>
 </p>
